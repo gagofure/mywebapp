@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\project\\Bankly\\New folder.csproj",
-      "projectName": "New folder",
-      "projectPath": "C:\\project\\Bankly\\New folder.csproj",
+      "projectUniqueName": "C:\\project\\mywebapp\\mywebapp.csproj",
+      "projectName": "mywebapp",
+      "projectPath": "C:\\project\\mywebapp\\mywebapp.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\project\\Bankly\\obj\\",
+      "outputPath": "C:\\project\\mywebapp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
